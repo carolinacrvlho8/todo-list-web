@@ -15,7 +15,7 @@
 ## 🛠️ Tecnologias
 HTML5 • CSS3 • JavaScript • Local Storage
 
-## 👩‍💻
+## Autora👩‍💻
 **Carolina Alves de Carvalho**  
 Estudante de Engenharia Informática | UTAD  
 *Projeto paralelo ao curso*
